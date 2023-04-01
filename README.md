@@ -1,4 +1,4 @@
 # Console-2.1
- Criar um repositório público no Github.
+ Criar um repositorio publico no Github.
 
-Alteração 1
+Alteracao 1
